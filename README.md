@@ -1,5 +1,5 @@
 # gitskills
-first
+first scened
 <<<<<<< HEAD
 Creating a new branch is quick and simple
 =======
